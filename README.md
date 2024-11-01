@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/color-palette-generator.git
+   git clone https://github.com/AreshNatarajan/react-color-palette-generator.git
 
    ```command
    npm install axios
